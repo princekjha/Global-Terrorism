@@ -1,0 +1,2 @@
+# Global-Terrorism
+In this EDA project, we were provided with the Global Terrorism Database (GTD) which is a database including information on terrorist events around the world from 1970 through 2017. Unlike many other event databases, the GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 181,000 cases.
