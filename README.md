@@ -1,5 +1,5 @@
 # Global-Terrorism
-In this EDA project, we were provided with the Global Terrorism Database (GTD) which is a database including information on terrorist events around the world from 1970 through 2017. Unlike many other event databases, the GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period and now includes more than 181,000 cases.
+In this EDA project, we were provided with the Global Terrorism Database (GTD) which is a database including information on terrorist events around the world from 1970 through 2017. Unlike many other event databases, the GTD includes systematic data on domestic as well as international terrorist incidents that have occurred during this time period & now includes more than 181,000 cases.
 
 ## conclusion
 1. "Taliban" is the most powerful, dangerous and the most active gang among all of the gangs, followed by "islamic state of iraq and the levant(isil)" and "shining path(SL)".
